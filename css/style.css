@@ -1,0 +1,32 @@
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+#logo-container img {
+  width: 150px;
+  position: relative;
+}
+
+nav ul a {
+  color: #ff0000;
+}
+
+h1 {
+  font-family: 'Ultra', serif;
+  color: #ff6347;
+}
+h3 {
+  font-family: 'Times New Roman', Times, serif;
+  color: #ff6347;
+}
+
+.col img {
+  width: 80%;
+}
+
+.red {
+  background-color: #ff0000 !important;
+}
